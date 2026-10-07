@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">PMDM_P1_EloyJimenez</string>
+    <!-- Títulos y nombres de la aplicación -->
+    <string name="app_name">Taskify</string>
+    <string name="titulo_main">Mis Tareas Pendientes</string>
+    <string name="hint_titulo_tarea">Introduce el título de la tarea</string>
+    <string name="hint_desc_tarea">Introduce la descripción</string>
+    <string name="btn_guardar">Guardar Tarea</string>
+    <string name="btn_completar">Completar</string>
+    <string name="btn_eliminar">Eliminar</string>
+
+    <!-- Texto parametrizado -->
+    <string name="contador_tareas">Tareas pendientes: %1$d</string>
+
+    <!-- String-array -->
+    <string-array name="estados_tareas">
+        <item>Todas</item>
+        <item>Pendientes</item>
+        <item>Completadas</item>
+    </string-array>
 </resources>
