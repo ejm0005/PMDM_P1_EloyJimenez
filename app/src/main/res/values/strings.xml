@@ -8,6 +8,10 @@
     <string name="btn_completar">Completar</string>
     <string name="btn_eliminar">Eliminar</string>
 
+    <!-- Descripciones de imagenes -->
+    <string name="desc_vector">imagen vector</string>
+    <string name="desc_bits">imagen bits</string>
+
     <!-- Texto parametrizado -->
     <string name="contador_tareas">Tareas pendientes: %1$d</string>
 
