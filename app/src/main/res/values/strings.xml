@@ -1,6 +1,6 @@
 <resources>
     <!-- Títulos y nombres de la aplicación -->
-    <string name="app_name">Taskify</string>
+    <string name="app_name">MyTasklist</string>
     <string name="titulo_main">Mis Tareas Pendientes</string>
     <string name="hint_titulo_tarea">Introduce el título de la tarea</string>
     <string name="hint_desc_tarea">Introduce la descripción</string>
