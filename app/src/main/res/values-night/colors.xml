@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primario">#90CAF9</color><!-- Color principal de la aplicación -->
+    <color name="color_secundario">#1E3A5F</color><!-- Color de elementos secundarios -->
+    <color name="color_fondo">#121212</color><!-- Color de fondo -->
+    <color name="color_texto">#E0E0E0</color><!-- Color del texto -->
+    <color name="color_completado">#81C784</color><!-- Colore para tareas completadas -->
+</resources>
