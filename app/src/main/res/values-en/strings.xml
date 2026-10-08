@@ -1,0 +1,24 @@
+<resources>
+    <!-- Títulos y nombres de la aplicación -->
+    <string name="app_name">MyTasklist</string>
+    <string name="titulo_main">My pending tasks</string>
+    <string name="hint_titulo_tarea">Enter the task title</string>
+    <string name="hint_desc_tarea">Enter the task description</string>
+    <string name="btn_guardar">Save task</string>
+    <string name="btn_completar">Complete</string>
+    <string name="btn_eliminar">Delete</string>
+
+    <!-- Descripciones de imagenes -->
+    <string name="desc_vector">vector image</string>
+    <string name="desc_bits">bits image</string>
+
+    <!-- Texto parametrizado -->
+    <string name="contador_tareas">Pending tasks: %1$d</string>
+
+    <!-- String-array -->
+    <string-array name="estados_tareas">
+        <item>All</item>
+        <item>Pendientes</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
